@@ -1,0 +1,8 @@
+﻿  Player.cpp
+  OthelloBoard.cpp
+  MinimaxPlayer.cpp
+  HumanPlayer.cpp
+  GameDriver.cpp
+  Board.cpp
+  Generating Code...
+  myOthello.vcxproj -> C:\Users\Anthony\Desktop\cs451-project2\myOthello\Debug\myOthello.exe
