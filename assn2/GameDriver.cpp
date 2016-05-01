@@ -131,5 +131,8 @@ int main(int argc, char** argv) {
 	}
 	GameDriver* game = new GameDriver(argv[1],argv[2],4,4);
 	game->run();
+	printf("Added this scanf so that you can see the end results...Just enter a char to exit\n");
+	char test[6];
+	scanf_s("%s", &test);
 	return 0;
 }

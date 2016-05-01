@@ -1,8 +1,7 @@
-﻿  Player.cpp
-  OthelloBoard.cpp
-  MinimaxPlayer.cpp
-  HumanPlayer.cpp
-  GameDriver.cpp
-  Board.cpp
+﻿  MinimaxPlayer.cpp
+c:\users\tony.tyrrell\desktop\cs331\assn2\minimaxplayer.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\tony.tyrrell\desktop\cs331\assn2\minimaxplayer.cpp(71): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
-  myOthello.vcxproj -> C:\Users\Anthony\Desktop\cs451-project2\myOthello\Debug\myOthello.exe
+  Skipping... (no relevant changes detected)
+  GameDriver.cpp
+  myOthello.vcxproj -> C:\Users\tony.tyrrell\Desktop\cs331\myOthello\Debug\myOthello.exe

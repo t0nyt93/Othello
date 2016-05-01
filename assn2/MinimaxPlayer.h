@@ -41,7 +41,12 @@ public:
      * This is a virtual copy constructor
      */
     MinimaxPlayer* clone();
-
+	
+	void MinimaxPlayer::minimax_decision(OthelloBoard*b,int&,int&, bool);
+	int MinimaxPlayer::min_value(OthelloBoard*b);
+	int MinimaxPlayer::max_value(OthelloBoard*b);
+	int MinimaxPlayer::utility(OthelloBoard*b, char);
+	
 private:
 
 };
